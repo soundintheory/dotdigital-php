@@ -14,7 +14,7 @@
         }
     },
     "require": {
-        "php": "^7.4 || ^8.0",
+        "php": "^5.6",
         "ext-json": "*",
         "psr/http-client": "^1.0",
         "psr/http-factory": "^1.0",
@@ -23,7 +23,7 @@
         "nesbot/carbon": "^2.67"
     },
     "require-dev": {
-        "guzzlehttp/guzzle": "^7.4",
+        "guzzlehttp/guzzle": "^6.2",
         "symplify/easy-coding-standard": "^9.4",
         "phpstan/phpstan": "^1.0",
         "phpunit/phpunit": "^10.1.1",
